@@ -37,4 +37,3 @@ name = '  Aman   Mishra   '
 print(name)
 print(name.rstrip())
 
-demo
