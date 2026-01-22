@@ -1,0 +1,2 @@
+SavingAcc|9900|1|Aman|16845.0
+CurrentAccount|65|9|Ajay|9910.0
